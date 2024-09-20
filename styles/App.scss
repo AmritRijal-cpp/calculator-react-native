@@ -1,0 +1,29 @@
+.container {
+   flex: 1;
+   background-color: #000;
+   padding: 25px;
+}
+
+.result {
+   flex: 2;
+   width: 100%;
+}
+
+.numpad {
+   flex: 4;
+   width: 100%;
+}
+
+.resultDisplay {
+   flex: 1;
+   justify-content: flex-end;
+   align-items: flex-end;
+   margin-bottom: 20px;
+}
+
+.text {
+   font-size: 28px;
+   font-weight: bold;
+   color: #ffffff;
+   text-align: right;
+}
